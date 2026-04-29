@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: digital-content-verification-backend
+    runtime: node
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: CORS_ORIGIN
+        value: https://*.vercel.app
+      - key: RPC_URL
+        sync: false
+      - key: CONTRACT_ADDRESS
+        sync: false
+      - key: PRIVATE_KEY
+        sync: false
+      - key: PINATA_JWT_TOKEN
+        sync: false
+      - key: WATERMARK_STRICT
+        value: "false"
