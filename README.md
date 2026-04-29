@@ -1,4 +1,4 @@
-# Digital Content Verification Platform
+# AI Based Content Authenticity and Verification Platform
 
 A full-stack prototype for registering and verifying digital content provenance with SHA-256 hashes, IPFS storage, and an on-chain Solidity registry.
 

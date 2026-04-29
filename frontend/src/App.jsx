@@ -222,8 +222,8 @@ function App() {
       <div className="bg-grid" />
 
       <header className="hero">
-        <p className="eyebrow">Digital Content Verification Suite</p>
-        <h1>Secure Provenance For Modern Digital Assets</h1>
+        <p className="eyebrow">AI Based Content Authenticity and Verification Platform</p>
+        <h1>AI Based Content Authenticity and Verification Platform</h1>
         <p className="hero-copy">
           Register and verify images, video, audio, and documents with SHA-256 fingerprints, IPFS permanence, and on-chain proof.
         </p>
