@@ -254,4 +254,4 @@ Planned or future work:
 - Stronger invisible watermarking
 - More robust media similarity detection
 - Video-specific provenance workflows
-- Public testnet deployment hardening
+- Public testnet deployment hardening.
